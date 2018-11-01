@@ -1,0 +1,21 @@
+.intro{
+  font-size: 69px;
+}
+.sub{
+  margin-top: -20px;
+  color: #6B4DF2;
+  
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+.btn a{
+  border: #6b4df2 solid 2px;
+margin-right: 5px;
+margin-left: 0px;
+  padding: 5px 80px;
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+  color: #8f8f8f;
+}
